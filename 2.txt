@@ -1,0 +1,17 @@
+SQL> show parameter
+
+NAME                                 TYPE        VALUE                          
+------------------------------------ ----------- ------------------------------ 
+O7_DICTIONARY_ACCESSIBILITY          boolean     FALSE                          
+active_instance_count                integer                                    
+aq_tm_processes                      integer     1                              
+archive_lag_target                   integer     0                              
+asm_diskgroups                       string                                     
+asm_diskstring                       string                                     
+asm_power_limit                      integer     1                              
+asm_preferred_read_failure_groups    string                                     
+audit_file_dest                      string      /u01/app/oracle/admin/spc/adum 
+                                                 p                              
+audit_sys_operations                 boolean     FALSE                          
+
+NAME                                 TYPE        
